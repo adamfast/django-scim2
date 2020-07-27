@@ -53,7 +53,7 @@ setup(
     package_dir={'': 'src'},
     install_requires=[
         'Django>=2.2.13',
-        'python-dateutil>=2.7.3',
+        'python-dateutil>=2.6.1',
         'scim2-filter-parser==0.3.4',
     ],
     tests_require=[
