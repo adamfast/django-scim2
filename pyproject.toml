@@ -32,7 +32,7 @@ packages = [
 python = ">=3.6"
 scim2-filter-parser = "0.3.4"
 Django = ">=2.0"
-python-dateutil = ">=2.7.3"
+python-dateutil = ">=2.6.1"
 
 [tool.poetry.dev-dependencies]
 mock = "^4.0.2"
